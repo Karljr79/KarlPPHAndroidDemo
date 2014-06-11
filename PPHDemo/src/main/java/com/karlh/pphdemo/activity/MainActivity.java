@@ -1,9 +1,11 @@
-package com.karlh.pphdemo;
+package com.karlh.pphdemo.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.karlh.pphdemo.R;
 
 
 public class MainActivity extends Activity {
