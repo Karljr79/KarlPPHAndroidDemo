@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="paypal-sdk-1.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PPHDemo/build/exploded-aar/com.paypal.merchant.sdk/paypal-sdk/1.3.1/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/PPHDemo/build/exploded-aar/com.paypal.merchant.sdk/paypal-sdk/1.3.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
