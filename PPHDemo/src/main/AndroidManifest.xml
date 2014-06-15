@@ -5,17 +5,17 @@
 
     <application
         android:allowBackup="true"
+        tools:replace="label"
         android:icon="@drawable/ic_launcher"
         android:label="@string/my_app_name"
         android:theme="@style/AppTheme"
-        tools:replace="label"
         >
         <uses-sdk
             android:minSdkVersion="14"
             android:targetSdkVersion="19"/>
         <activity
             android:name="com.karlh.pphdemo.activity.MainActivity"
-            android:label="@string/my_app_name" >
+            android:label="@string/my_app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
